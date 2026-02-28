@@ -1,0 +1,25 @@
+{
+    "value":  [
+                  {
+                      "id ":  "1",
+                      "brand":  "ASUS",
+                      "model":  "ROG Zephyrus G14",
+                      "cpu":  "Ryzen 9 7940HS",
+                      "ram":  "16GB DDR5",
+                      "price":  "1500",
+                      "count":  "5",
+                      "image":  ""
+                  },
+                  {
+                      "id ":  "2",
+                      "brand":  "Apple",
+                      "model":  "MacBook Air M2",
+                      "cpu":  "Apple M2",
+                      "ram":  "8GB Unified",
+                      "price":  "1100",
+                      "count":  "2",
+                      "image":  ""
+                  }
+              ],
+    "Count":  2
+}

@@ -1,5 +1,6 @@
 // api.js — Data fetching with caching
-const APPS_SCRIPT_URL = './data.json';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxcycPxj7U1H1cppWIEJT619b5pjFgp5oGLDEDebFWFgfvN5xYy_3BVdsSXs118R8Uxxg/exec';
+const CACHE_KEY = 'techshop_products_cache';
 const CACHE_TIME_KEY = 'techshop_products_cache_time';
 const CACHE_MINUTES = 5;
 
